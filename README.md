@@ -9,6 +9,9 @@ A simple Python script that fetches a random piece of advice from the [Advice Sl
 - Prints the advice to the console.
 - Handles network errors gracefully.
 
+  ![image](https://github.com/user-attachments/assets/28cb8c71-ad4e-4350-b7df-d54ef99e6ceb)
+
+
 ## Requirements
 
 - Python 3.x
