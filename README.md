@@ -41,7 +41,5 @@ python fetch_advice.py
 This project is open source and free to use
 
 
-![image](https://github.com/user-attachments/assets/ca867451-ee31-42b2-9818-a50069d53d12)
-
 
 
